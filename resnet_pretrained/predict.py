@@ -8,6 +8,7 @@ from PIL import Image
 from lib.model import model
 from lib.core import config
 import os
+import matplotlib.pyplot as plt
 
 transform = transforms.Compose([
     transforms.Resize(256),
@@ -21,6 +22,17 @@ transform = transforms.Compose([
 img = Image.open(os.path.join(config.BASE_PATH,
                  "dataset/car.png")).convert('RGB')
 img_t = transform(img)
+
+# ---------Display img_t---------------------------------
+# def tensor_to_image(tensor):
+#     # Convert tensor to numpy array and transpose dimensions
+#     img = tensor.numpy().transpose(1, 2, 0)
+#     plt.imshow(img)
+#     plt.show()
+# tensor_to_image(img_t)
+# -------------------------------------------------------
+
+
 batch_t = torch.unsqueeze(img_t, 0)
 
 model = model.resnet
