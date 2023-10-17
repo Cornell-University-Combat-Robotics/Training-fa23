@@ -1,1 +1,1 @@
-BASE_PATH = "/Users/richmjin/Desktop/Projects/resnet_pretrained/"
+BASE_PATH = "/Users/richmjin/Desktop/CRC_Training/Training-fa23/resnet_pretrained/"
