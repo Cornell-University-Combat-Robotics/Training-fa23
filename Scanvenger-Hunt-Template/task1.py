@@ -1,3 +1,4 @@
+#You have been ghosted
 class Main:
     def __init__(self, useful_param):
         self.useful_param = useful_param
