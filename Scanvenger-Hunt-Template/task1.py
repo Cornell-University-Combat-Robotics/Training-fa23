@@ -52,7 +52,7 @@ if __name__ == "__main__":
     # where more intriguing challenges await you!"
 #.md is a makrdown file extension, basically a very similar format as .txt
 
-# Your next task is to look through all the "anonymous action" commits and find the commit containing 
+# Your next task is to look through the repository history and search for the commits titled "anonymous action." Find the commit containing 
     # the lost file named "task2.md". Once you have found the file, call a trainer over to tell them your 
     # 4 digit passcode. If the passcode is correct, you can then process to task 3.
 # Note: make sure there are texts in that files, I may have split the commit for creating the file and 
