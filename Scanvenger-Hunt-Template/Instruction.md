@@ -6,9 +6,9 @@ Hello, amazing travelers! Welcome to the exciting GitHub Scavenger Hunt!
 
 This is designed to help you learn the basic commands of GitHub, understand various repository functionalities, and perhaps learn a thing or two about coding along the way. This experience is crafted to use what you learned and practice those skills. Let’s dive right in!
 
-# Task 1: Clone the Repository
+# Task 1: Look for a file named "task1.py"
 
-Your first task is to clone the designated repository to your local machine. Cloning a repository allows you to have your own local copy of the entire project, enabling you to work on it and make changes. 
+Your first task is to search through this folder looking for a file named "task1.py", and look for python comment message 
+in the file which start with the symbol "#". That will provide you with the next step.
 
-Once you have finished cloning this repositotry, PLEASE run the task1.py file
-
+This step is not suppose be tricky, just to keep you warmed up.
