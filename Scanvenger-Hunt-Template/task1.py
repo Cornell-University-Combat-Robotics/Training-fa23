@@ -47,5 +47,14 @@ if __name__ == "__main__":
     absurd_object = Main("some text")
     absurd_object.somethod()
     absurd_object.another_method()
-    print("Congratulations! You've completed Task 1! Keep the enthusiasm alive and proceed to the next task, where more intriguing challenges await you!")
-    print("\nYour next task is to find the following commit using this code: ---- with your next step instruction")
+
+    
+# Congratulations! You've completed Task 1! Keep the enthusiasm alive and proceed to the next task, 
+    # where more intriguing challenges await you!"
+#.md is a makrdown file extension, basically a very similar format as .txt
+
+# Your next task is to look through all the "anonymous action" commits and find the commit containing 
+    # the file named "task2.md" with informations to next step
+#Note: make sure there are texts in that files, I may have split the commit for creating the file and 
+    # write on the file in two separate commits
+
