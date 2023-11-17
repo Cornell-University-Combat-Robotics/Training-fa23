@@ -1,1 +1,16 @@
-
+Aaron: 6883
+Alyssa: 7456
+Ananya: 7088
+Angela: 4953
+Ashley; 7155
+Camille: 5024
+Chris: 7879
+Crystal: 3142
+Evan: 2102
+Javohir: 8065
+Jenny: 9595
+Julia: 8850
+Mei-Ling: 9059
+Nicholas: 7421
+Rachel: 2359
+Vishnu: 6739
