@@ -10,3 +10,5 @@ Let continue with our mission: <br>
 Once you finish editing your file, please add your changes, make a concise and clear commit message, and push your change to the main branch
 
 Once you have successfully pushed your change, you can process to task 4 by read the instruction.md in the task4 directary via VS code or Github website. 
+
+***Important: From this step and now onward, don't forget to pull everytime you complete a task. This is suppose to simulate the real world, to pull all the changes people have made before you add more changes to the code.
