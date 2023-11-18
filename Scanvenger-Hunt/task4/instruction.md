@@ -6,3 +6,5 @@ index.html in the task4 foler named [YOUR-NAME_website.html], and edit the copy 
 **Note: Please make sure you are making the copy inside of the task4 folder, not anywhere else
 
 I have provide you with the bare-minimum html code. If you know more, and/or want to do more cool stuff, such as using a CSS style sheet for your website, feel free to play around. 
+
+***Important reminder: Don't forget to pull everytime you complete a task.
