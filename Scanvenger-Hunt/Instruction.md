@@ -1,5 +1,3 @@
-# You have been ghosted
-
 # Welcome to the GitHub Scavenger Hunt!
 
 Hello, amazing travelers! Welcome to the exciting GitHub Scavenger Hunt! 
