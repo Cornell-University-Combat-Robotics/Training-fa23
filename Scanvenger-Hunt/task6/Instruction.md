@@ -7,4 +7,5 @@ We didn't teach you how to delete a file/folder in git. This is a task for you t
 The command to delete a file is silently different than a folder, make sure you get the correct command to delete a FOLDER.
 Please make sure to only delete your folder. 
 
+Once you delete your folder, make a push and a pull, and you can move to the next step.
 Make sure you pull before process the task 7.
