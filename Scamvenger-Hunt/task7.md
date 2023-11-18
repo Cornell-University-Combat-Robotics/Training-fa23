@@ -8,5 +8,6 @@ https://www.rapidtables.com/convert/number/binary-to-ascii.html
 The text you get will be the password to unlock your final treasure
 
 Go to the util folder, and find the pdf named "Treasure-procted.pdf"
-Open the file using the password you received to uncover the treasure. 
+Open the file in your file explorer or finder or whatever you use for file management
+Using the password you received to uncover the treasure. 
 
